@@ -94,5 +94,3 @@ print("Predicted Life Satisfaction:", predicted_life_satisfaction[0, 0])
 ###     This is what a typical Machine Learning project looks like.
 
 
-#pag. 44/564
-#file:///L:/Linear_/Base-TI/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf
